@@ -165,7 +165,25 @@ Welcome to the Course-Dot Course Catalog, where you can find a diverse range of 
 |--------------------|---------------------------------------------|-----------------|------|------------------|
 | Occupational Skills | Foundations of CNC Machining.docx           |                 |      | 9/8/2023 20:39  |
 
-## Soft Skills, SAFe, IT Management, ITIL
-| Course Category                   | Course Title                                    | Duration (Days) | Cost | Created On       |
-|-----------------------------------|------------------------------------------------|-----------------|------|------------------|
-| Soft Skills, SAFe, IT Management, ITIL | EVALUATION AND ASSESSMENT FRAMEWORKS
+Soft Skills, SAFe, IT Management, ITIL
+Course Category	Course Title	Duration (Days)	Cost	Created On
+Soft Skills, SAFe, IT Management, ITIL	EVALUATION AND ASSESSMENT FRAMEWORKS.docx			8/14/2023 16:58
+Project Management (i.e. PMI)
+Course Category	Course Title	Duration (Days)	Cost	Created On
+Project Management (i.e. PMI)	Project Management Professional (PMP) Study Guide 2023.pdf			8/14/2023 16:58
+SAP
+Course Category	Course Title	Duration (Days)	Cost	Created On
+SAP	SAP ERP Implementation.pdf			8/14/2023 16:58
+Security
+Course Category	Course Title	Duration (Days)	Cost	Created On
+Security	Cybersecurity Fundamentals.pdf			8/14/2023 16:58
+Security	Ethical Hacking - Advanced Techniques and Tools.pdf			8/14/2023 16:58
+Security	Information Security Management - A Comprehensive Guide.pdf			8/14/2023 16:58
+Security	Security Operations Center (SOC) Fundamentals.docx			8/14/2023 16:58
+Storage
+Course Category	Course Title	Duration (Days)	Cost	Created On
+Storage	Storage Area Networks (SANs) - Design and Implementation.pdf			8/14/2023 16:58
+Storage	Storage Management Best Practices.docx			8/14/2023 16:58
+Whatsapp
+Course Category	Course Title	Duration (Days)	Cost	Created On
+Whatsapp	Whatsapp Business API Integration Guide.pdf			8/14/2023 16:58
